@@ -33,3 +33,4 @@ python manage.py runserver
 Crea una base de datos llamada bakery
 
 ## Url del proyecto
+http://209.145.61.41:8004/api/schema/swagger-ui/
